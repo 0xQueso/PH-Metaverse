@@ -130,7 +130,7 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header gradient-text"> 🇵🇭 BATTLE OF THE BANGS ⚔️</p>
+          <p className="header gradient-text"> 🇵🇭 War on Duts ⚔️</p>
           <p className="sub-text">dethrone d30!</p>
             {renderContent()}
         </div>
