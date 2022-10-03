@@ -9,7 +9,7 @@ import Arena from './Components/Arena';
 import './App.css';
 
 // Constants
-const TWITTER_HANDLE = '0xqueso';
+const TWITTER_HANDLE = '0xqueue';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const App = () => {
